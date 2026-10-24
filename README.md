@@ -18,4 +18,4 @@ The program evaluates a number and returns a result based on the following rules
 ---
 
 ## Dependencies
-npm install
+> **! IMPORTANT:** In bash: npm install
